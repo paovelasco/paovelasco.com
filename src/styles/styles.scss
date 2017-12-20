@@ -8,8 +8,7 @@ body {
   font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
   line-height: 1.4em;
   color: #4d4d4d;
-  min-width: 230px;
-  max-width: 550px;
+  padding: 0 4%;
   margin: 0 auto;
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
@@ -29,3 +28,27 @@ h2 {
 .loss { color: $vin-red; }
 input.small { width: 46px; }
 td.fuel-savings-label { width: 175px; }
+
+
+.center{
+  text-align: center;
+}
+
+.powerflag-content{
+  .main-content{
+    text-align: center;
+    padding: 280px 0 280px 0;
+
+    h3{
+      margin: 0;
+    }
+
+    h2{
+      font-size: 80px;
+      line-height: 100px;
+      margin: 0;
+    }
+  }
+
+  
+}
