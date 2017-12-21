@@ -6,6 +6,7 @@ import HomePage from './HomePage';
 import FuelSavingsPage from '../containers/FuelSavingsPage';
 import AboutPage from './AboutPage';
 import PowerFlagPage from './PowerFlagPage';
+import MotivationPage from './MotivationPage';
 import NotFoundPage from './NotFoundPage';
 
 // This is a class-based component because the current
@@ -29,6 +30,7 @@ class App extends React.Component {
           <Route path="/fuel-savings" component={FuelSavingsPage} />
           <Route path="/about" component={AboutPage} />
           <Route path="/powerflag" component={PowerFlagPage} />
+          <Route path="/motivation" component={MotivationPage} />
           <Route component={NotFoundPage} />
         </Switch>
       </div>
