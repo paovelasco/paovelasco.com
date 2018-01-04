@@ -7,8 +7,7 @@ $vin-red: #ff0000;
 body {
   font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
   line-height: 1.4em;
-  color: #4d4d4d;
-  // padding: 0 4%;
+  color: #4d4d4d;  
   margin: 0 auto;
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
@@ -74,4 +73,8 @@ td.fuel-savings-label { width: 175px; }
       margin: 0;
       font-size: 10PX;
     }
+}
+
+.motivation-content{
+  padding: 0 4%;
 }
