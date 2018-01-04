@@ -8,7 +8,7 @@ body {
   font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
   line-height: 1.4em;
   color: #4d4d4d;
-  padding: 0 4%;
+  // padding: 0 4%;
   margin: 0 auto;
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
@@ -35,6 +35,22 @@ td.fuel-savings-label { width: 175px; }
 }
 
 .homepage-content{
+  h1{
+    font-size: 60px;
+    margin: 0;
+  }
+
+  h2{
+    font-family: monospace;
+  }
+
+  .header{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    z-index: 10;
+  }
+  
   img{
     width: 100%;
   }
