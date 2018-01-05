@@ -7,18 +7,22 @@ import PropTypes from 'prop-types';
 class PowerFlagPage extends React.Component{
   constructor(props, context){
     super(props, context);
+
+    this.state = {
+      motivation: this.getRandomMotivation()
+    };
   }
 
-  getRandomQuote(){
+  getRandomMotivation(){
     const randomId = Math.floor(Math.random() * (this.props.motivationList.length - 1));
-    return (this.props.motivationList[randomId]).quote;
+    return (this.props.motivationList[randomId]);
   }
 
   render(){
     return (
       <div className="powerflag-content">
-        <h3>READY PLAYER 1...</h3>
-        <h2>{this.getRandomQuote()}</h2>
+        <h3>{this.state.motivation.quotePartOne.toUpperCase()}</h3>
+        <h2>{this.state.motivation.quotePartTwo}</h2>
         <p><Link to="/motivation">motivation</Link></p>
       </div>
     );
