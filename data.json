@@ -61,5 +61,19 @@
         "quotePartOne": "This year I will make this goal a reality",
         "quotePartTwo": "I can. I can. I can",
         "link": "https://www.facebook.com/GymBlogCentral/videos/1150137638365410/"
+    },
+    {
+        "id": 10,
+        "speaker": "Benjamin Affleck",
+        "quotePartOne": "Judge me by how good my good ideas are",
+        "quotePartTwo": "not how bad my bad ideas are",
+        "link": "https://www.facebook.com/goalcast/videos/1578895815520936/"
+    },
+    {
+        "id": 11,
+        "speaker": "Former US Navy Admiral, William H. McRaven",
+        "quotePartOne": "Nothing matters",
+        "quotePartTwo": "but your will to succed",
+        "link": "https://www.facebook.com/goalcast/videos/1533350906742094/"
     }
 ]
