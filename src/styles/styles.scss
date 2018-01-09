@@ -34,8 +34,10 @@ td.fuel-savings-label { width: 175px; }
 }
 
 .homepage-content{
+  min-width: 1000px;
   h1{
     font-size: 60px;
+    line-height: 60px;
     margin: 0;
   }
 
@@ -78,4 +80,8 @@ td.fuel-savings-label { width: 175px; }
 
 .motivation-content{
   padding: 0 4%;
+
+  li{
+    font-size: 0.8em;
+  }
 }
