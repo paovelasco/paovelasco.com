@@ -75,5 +75,33 @@
         "quotePartOne": "Nothing matters",
         "quotePartTwo": "but your will to succeed",
         "link": "https://www.facebook.com/goalcast/videos/1533350906742094/"
+    },
+    {
+        "id": 12,
+        "speaker": "Tony Robbins",
+        "quotePartOne": "",
+        "quotePartTwo": "Success is one step at a time",
+        "link": "https://www.youtube.com/watch?v=F__IrFQzmb4"
+    },
+    {
+        "id": 13,
+        "speaker": "Unknown",
+        "quotePartOne": "If you want to be successful",
+        "quotePartTwo": "Invest in you",
+        "link": "https://www.youtube.com/watch?v=g-jwWYX7Jlo"
+    },
+    {
+        "id": 14,
+        "speaker": "Unknown",
+        "quotePartOne": "",
+        "quotePartTwo": "Don't let nobody steal your dream",
+        "link": "https://www.youtube.com/watch?v=g-jwWYX7Jlo"
+    },
+    {
+        "id": 15,
+        "speaker": "Unknown",
+        "quotePartOne": "It's not over",
+        "quotePartTwo": "Until I win",
+        "link": "https://www.youtube.com/watch?v=g-jwWYX7Jlo"
     }
 ]
