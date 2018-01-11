@@ -21,9 +21,12 @@ class PowerFlagPage extends React.Component{
   render(){
     return (
       <div className="powerflag-content">
-        <h3>{this.state.motivation.quotePartOne.toUpperCase()}</h3>
-        <h2>{this.state.motivation.quotePartTwo}</h2>
-        <p><Link to="/motivation">motivation</Link></p>
+        <p><span className="goal">Regret Minimization Framework</span> | <span className="goal">Freedom of Location and Money</span></p>
+        <div className="quote">
+          <h3>{this.state.motivation.quotePartOne.toUpperCase()}</h3>
+          <h2>{this.state.motivation.quotePartTwo}</h2>
+          <p><Link to="/motivation">...</Link></p>
+        </div>
       </div>
     );
   }
