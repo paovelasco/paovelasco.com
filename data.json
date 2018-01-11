@@ -3,7 +3,7 @@
         "id": 1,
         "speaker": "Steve Jobs",
         "quotePartOne": "Your time is limited",
-        "quotePartTwo": "so don't waste it living someone else's life",
+        "quotePartTwo": "So don't waste it living someone else's life",
         "link": "https://www.facebook.com/GymBlogCentral/videos/1150137638365410/"
     },
     {
@@ -17,14 +17,14 @@
         "id": 3,
         "speaker": "Former US Navy Admiral, William H. McRaven",
         "quotePartOne": "If you want to change the world",
-        "quotePartTwo": "start by making your bed",
+        "quotePartTwo": "Start by making your bed",
         "link": "https://www.facebook.com/goalcast/videos/1533350906742094/"
     },
     {
         "id": 4,
         "speaker": "Motivation Grid",
         "quotePartOne": "You gotta take that big dream",
-        "quotePartTwo": "and take small steps to make it manageable to make that dream a reality",
+        "quotePartTwo": "And take small steps to make it manageable to make that dream a reality",
         "link": "https://www.youtube.com/watch?v=wzhzkKccBi8&list=PL2075269699E6695E&index=19"
     },
     {
@@ -45,7 +45,7 @@
         "id": 7,
         "speaker": "Tony Robbins",
         "quotePartOne": "Every day you say no to your dreams",
-        "quotePartTwo": "you might be pushing your dreams back 6 months",
+        "quotePartTwo": "You might be pushing your dreams back 6 months",
         "link": "https://www.facebook.com/GymBlogCentral/videos/1150137638365410/"
     },
     {
@@ -66,14 +66,14 @@
         "id": 10,
         "speaker": "Benjamin Affleck",
         "quotePartOne": "Judge me by how good my good ideas are",
-        "quotePartTwo": "not how bad my bad ideas are",
+        "quotePartTwo": "Not how bad my bad ideas are",
         "link": "https://www.facebook.com/goalcast/videos/1578895815520936/"
     },
     {
         "id": 11,
         "speaker": "Former US Navy Admiral, William H. McRaven",
         "quotePartOne": "Nothing matters",
-        "quotePartTwo": "but your will to succed",
+        "quotePartTwo": "but your will to succeed",
         "link": "https://www.facebook.com/goalcast/videos/1533350906742094/"
     }
 ]
