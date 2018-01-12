@@ -103,5 +103,19 @@
         "quotePartOne": "It's not over",
         "quotePartTwo": "Until I win",
         "link": "https://www.youtube.com/watch?v=g-jwWYX7Jlo"
+    },
+    {
+        "id": 16,
+        "speaker": "Mickey",
+        "quotePartOne": "Hey",
+        "quotePartTwo": "I didn't hear no bell",
+        "link": "https://www.youtube.com/watch?v=RC6sMFbL288"
+    },
+    {
+        "id": 17,
+        "speaker": "Rocky Balboa",
+        "quotePartOne": "Who's got the right to tell you no to your dreams",
+        "quotePartTwo": "Nobody",
+        "link": "https://www.youtube.com/watch?v=NUodWVy-Q7s"
     }
 ]
