@@ -1,13 +1,15 @@
 /* Variables */
-$vin-blue: #5bb7db;
-$vin-green: #60b044;
-$vin-red: #ff0000;
+// Check out http://html-color.org/3399CC to select colors
+$vin-blue: #3399cc;
+$vin-green: #32CCB2;
+$vin-red: #CC6632;
+$vin-black: #4d4d4d;
 
 /* Styles */
 body {
   font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
   line-height: 1.4em;
-  color: #4d4d4d;  
+  color: $vin-black;  
   margin: 0 auto;
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
@@ -62,8 +64,7 @@ td.fuel-savings-label { width: 175px; }
 
     .goal{
       color: $vin-red;
-      font-size: 0.8em;
-      font-weight: 600;
+      font-size: 0.9em;
     }
 
     .quote{
@@ -72,12 +73,12 @@ td.fuel-savings-label { width: 175px; }
 
     h3{
       margin: 0;
-      font-size: 24px;
+      font-size: 1.6em;
     }
 
     h2{
-      font-size: 80px;
-      line-height: 84px;
+      font-size: 4.5em;
+      line-height: 70px;
       margin: 0;
     }
 
