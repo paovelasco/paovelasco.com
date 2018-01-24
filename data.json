@@ -117,5 +117,26 @@
         "quotePartOne": "Who's got the right to tell you no to your dreams",
         "quotePartTwo": "Nobody",
         "link": "https://www.youtube.com/watch?v=NUodWVy-Q7s"
+    },
+    {
+        "id": 18,
+        "speaker": "Denzel Washington",
+        "quotePartOne": "Never be discouraged, never hold back",
+        "quotePartTwo": "Give everything you got",
+        "link": "https://www.youtube.com/watch?v=HuCKRRWjzVE"
+    },
+    {
+        "id": 19,
+        "speaker": "Denzel Washington",
+        "quotePartOne": "And when you fall",
+        "quotePartTwo": "Fall forward",
+        "link": "https://www.youtube.com/watch?v=HuCKRRWjzVE"
+    },
+    {
+        "id": 20,
+        "speaker": "Unknown",
+        "quotePartOne": "If you see it in your mind",
+        "quotePartTwo": "You can hold it in your hand",
+        "link": "https://www.youtube.com/watch?v=yQ2zARMyH68"
     }
 ]
