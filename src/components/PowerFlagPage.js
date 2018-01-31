@@ -14,14 +14,16 @@ class PowerFlagPage extends React.Component{
   }
 
   getRandomMotivation(){
-    const randomId = Math.floor(Math.random() * (this.props.motivationList.length - 1));
+    const randomId = Math.floor(Math.random() * (this.props.motivationList.length));
     return (this.props.motivationList[randomId]);
   }
 
   render(){
     return (
       <div className="powerflag-content">
-        <p><span className="goal">Regret Minimization Framework</span> | <span className="goal">Freedom of Location and Money</span></p>
+        <p>
+          <span className="goal">Regret Minimization Framework</span> | <span className="goal">Freedom of Location and Money</span> | <span className="goal">When enough wealth for lifetime. Pursue other matters unrelated to wealth</span>
+        </p>
         <div className="quote">
           <h3>{this.state.motivation.quotePartOne}</h3>
           <h2>{this.state.motivation.quotePartTwo}</h2>

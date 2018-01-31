@@ -138,5 +138,26 @@
         "quotePartOne": "If you see it in your mind",
         "quotePartTwo": "You can hold it in your hand",
         "link": "https://www.youtube.com/watch?v=yQ2zARMyH68"
+    },
+    {
+        "id": 21,
+        "speaker": "Steve Jobs",
+        "quotePartOne": "Most people never pick up the phone and call",
+        "quotePartTwo": "And that's what separates the people that do things from the people that dream about them",
+        "link": "https://www.youtube.com/watch?v=irt9DD4OW4U"
+    },
+    {
+        "id": 22,
+        "speaker": "Jim Carrey",
+        "quotePartOne": "You can fail at what you don't love",
+        "quotePartTwo": "So you might as well do what you love",
+        "link": "https://www.youtube.com/watch?v=_-kaib_rXTQ"
+    },
+    {
+        "id": 23,
+        "speaker": "Jim Carrey",
+        "quotePartOne": "Because life doesn't happen to you",
+        "quotePartTwo": "It happens for you",
+        "link": "https://www.youtube.com/watch?v=_-kaib_rXTQ"
     }
 ]
