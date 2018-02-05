@@ -159,5 +159,12 @@
         "quotePartOne": "Because life doesn't happen to you",
         "quotePartTwo": "It happens for you",
         "link": "https://www.youtube.com/watch?v=_-kaib_rXTQ"
+    },
+    {
+        "id": 24,
+        "speaker": "Unknown",
+        "quotePartOne": "Challenge yourself and",
+        "quotePartTwo": "Make it OK to fail",
+        "link": "https://www.youtube.com/watch?v=pEbaff5VkMY"
     }
 ]
