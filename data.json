@@ -166,5 +166,33 @@
         "quotePartOne": "Challenge yourself and",
         "quotePartTwo": "Make it OK to fail",
         "link": "https://www.youtube.com/watch?v=pEbaff5VkMY"
+    },
+    {
+        "id": 25,
+        "speaker": "Unknown",
+        "quotePartOne": "You have to start where you are now",
+        "quotePartTwo": "You just have to start",
+        "link": "https://www.youtube.com/watch?v=khN2ZlPLjFs"
+    },
+    {
+        "id": 26,
+        "speaker": "Unknown",
+        "quotePartOne": "Momentum = Progress -> Happy -> Do more -> Second nature",
+        "quotePartTwo": "You will be successful",
+        "link": "https://www.youtube.com/watch?v=khN2ZlPLjFs"
+    },
+    {
+        "id": 27,
+        "speaker": "Unknown",
+        "quotePartOne": "Average human life expectancy",
+        "quotePartTwo": "79 years. Stop wasting time. Make each day count",
+        "link": "https://www.youtube.com/watch?v=khN2ZlPLjFs"
+    },
+    {
+        "id": 28,
+        "speaker": "Tony Robbins",
+        "quotePartOne": "Pain is your friend",
+        "quotePartTwo": "It will take you to the next level",
+        "link": "https://www.youtube.com/watch?v=BHVLwxDzVgg"
     }
 ]
