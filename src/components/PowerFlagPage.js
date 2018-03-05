@@ -22,7 +22,7 @@ class PowerFlagPage extends React.Component{
     return (
       <div className="powerflag-content">
         <p>
-          <span className="goal">Regret Minimization Framework</span> | <span className="goal">Freedom of Location and Money</span> | <span className="goal">When enough wealth for lifetime. Pursue other matters unrelated to wealth</span>
+          <span className="goal">21 day challenge. 120%</span> | <span className="goal">Regret Minimization Framework</span> | <span className="goal">Freedom of Location and Money</span> | <span className="goal">When enough wealth for lifetime. Pursue other matters unrelated to wealth</span>
         </p>
         <div className="quote">
           <h3>{this.state.motivation.quotePartOne}</h3>

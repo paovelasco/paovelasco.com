@@ -194,5 +194,26 @@
         "quotePartOne": "Pain is your friend",
         "quotePartTwo": "It will take you to the next level",
         "link": "https://www.youtube.com/watch?v=BHVLwxDzVgg"
+    },
+    {
+        "id": 29,
+        "speaker": "Unknnown",
+        "quotePartOne": "You are bigger than your pain",
+        "quotePartTwo": "You are better than that",
+        "link": "https://www.youtube.com/watch?v=BHVLwxDzVgg"
+    },
+    {
+        "id": 30,
+        "speaker": "Unknnown",
+        "quotePartOne": "Challenge you to",
+        "quotePartTwo": "Stop settling",
+        "link": "https://www.youtube.com/watch?v=BHVLwxDzVgg"
+    },
+    {
+        "id": 31,
+        "speaker": "Unknnown",
+        "quotePartOne": "When you put in 120 percent",
+        "quotePartTwo": "It affects my family and friends life",
+        "link": "https://www.youtube.com/watch?v=BHVLwxDzVgg"
     }
 ]
