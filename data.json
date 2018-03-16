@@ -215,5 +215,47 @@
         "quotePartOne": "When you put in 120 percent",
         "quotePartTwo": "It affects my family and friends life",
         "link": "https://www.youtube.com/watch?v=BHVLwxDzVgg"
+    },
+    {
+        "id": 32,
+        "speaker": "Unknnown",
+        "quotePartOne": "If you don't build your dreams,",
+        "quotePartTwo": "someone will hire you to build theirs",
+        "link": "https://www.youtube.com/watch?v=YS-Mm-OmH5Y"
+    },
+    {
+        "id": 33,
+        "speaker": "Elon Musk",
+        "quotePartOne": "If other people are putting in 40 hour work weeks and you are putting in 100 hour work weeks",
+        "quotePartTwo": "You will achieve in 4 months what it takes them a year to achieve",
+        "link": "https://www.youtube.com/watch?v=YS-Mm-OmH5Y"
+    },
+    {
+        "id": 34,
+        "speaker": "Unknown",
+        "quotePartOne": "7 tp 2 in the morning",
+        "quotePartTwo": "Is plenty of time to do damage",
+        "link": "https://www.youtube.com/watch?v=YS-Mm-OmH5Y"
+    },
+    {
+        "id": 35,
+        "speaker": "Unknown",
+        "quotePartOne": "Every day you lift your head up off the pillow",
+        "quotePartTwo": "You are gonna decide whether that day you are a success or you are a failure",
+        "link": "https://www.youtube.com/watch?v=YS-Mm-OmH5Y"
+    },
+    {
+        "id": 36,
+        "speaker": "Unknown",
+        "quotePartOne": "Success is a result of small seemingly insignificant",
+        "quotePartTwo": "moment to moment choices",
+        "link": "https://www.youtube.com/watch?v=YS-Mm-OmH5Y"
+    },
+    {
+        "id": 37,
+        "speaker": "Unknown",
+        "quotePartOne": "Don't take today off. Not today. Don't give in to the immediate gratification that is whispering in your ear.",
+        "quotePartTwo": "Instead go through the motions... work",
+        "link": "https://www.youtube.com/watch?v=YS-Mm-OmH5Y"
     }
 ]
