@@ -1,2 +1,2 @@
 # paovelasco.com
-Home for paovelasco.com - Under construction
+Home for paovelasco.com
